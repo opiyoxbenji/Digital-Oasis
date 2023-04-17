@@ -1,0 +1,122 @@
+[
+	{
+		"id": 1,
+		"name": "Samsung Galaxy S21",
+		"description":
+			"The Samsung Galaxy S21 features a 6.2-inch AMOLED display, a triple-lens camera system, and a Snapdragon 888 processor.",
+		"price": 799.99,
+		"brand": "Samsung",
+		"category": "Smartphones",
+		"imageUrl":
+			"https://cdn.dxomark.com/wp-content/uploads/medias/post-78636/galaxys21_5g.jpg",
+		"images": []
+	},
+	{
+		"id": 2,
+		"name": "iPhone 13 Pro",
+		"description":
+			"The iPhone 13 Pro eatures a 6.1-inch Super Retina XDR display, a triple-lens camera system with LiDAR scanner, and an A15 Bionic chip.",
+		"price": 899,
+		"brand": "Apple",
+		"category": "Smartphones",
+		"imageUrl":
+			"https://cdn.dxomark.com/wp-content/uploads/medias/post-94778/Apple-iPhone-13-Pro-featured-image-packshot-review.jpg",
+		"images": []
+	},
+	{
+		"id": 3,
+		"name": "Google Pixel 6 pro",
+		"description":
+			"The Google Pixel 6 pro features a 6.4-inch OLED display, a dual-lens camera system, and a custom Google Tensor chip.",
+		"price": 799,
+		"brand": "Google",
+		"category": "Smartphones",
+		"imageUrl":
+			"https://cdn.dxomark.com/wp-content/uploads/medias/post-98765/Google-Pixel-6-Pro-featured-image-packshot-review.jpg",
+		"images": []
+	},
+	{
+		"id": 4,
+		"name": "Samsung Galaxy Z Fold 3",
+		"description":
+			"The Samsung Galaxy Z Fold 3 features a 7.6-inch foldable Dynamic AMOLED display, a triple-lens camera system, and a Snapdragon 888 processor.",
+		"price": 1799,
+		"brand": "Samsung",
+		"category": "Smartphones",
+		"imageUrl":
+			"https://cdn.dxomark.com/wp-content/uploads/medias/post-99814/Samsung-Z-Fold3-5G-featured-image-packshot-review.jpg",
+		"images": []
+	},
+	{
+		"id": 5,
+		"name": "OnePlus 10 Pro",
+		"description":
+			"The OnePlus 10 Pro features a 6.7-inch Fluid AMOLED display, a quad-lens camera system, and a Snapdragon 895 processor.",
+		"price": 899,
+		"brand": "OnePlus",
+		"category": "Smartphones",
+		"imageUrl":
+			"https://cdn.dxomark.com/wp-content/uploads/medias/post-111229/OnePlus-10-Pro_featured-image-packshot-review.jpg",
+		"images": []
+	},
+	{
+		"id": 6,
+		"name": "Xiaomi Mi 12s Ultra",
+		"description":
+			"The Xiaomi Mi 12s Ultra features a 6.81-inch AMOLED display, a quad-lens camera system, and a Snapdragon 895 processor.",
+		"price": 1399,
+		"brand": "Xiaomi",
+		"category": "Smartphones",
+		"imageUrl":
+			"https://cdn.dxomark.com/wp-content/uploads/medias/post-121857/Xiaomi-12S-Ultra-featured-image-packshot-review.jpg",
+		"images": []
+	},
+	{
+		"id": 7,
+		"name": "MacBook Pro 16-inch",
+		"description":
+			"The MacBook Pro 16-inch features a 16-inch Retina display, an M1 Pro chip, and up to 64GB of RAM.",
+		"price": 2399,
+		"brand": "Apple",
+		"category": "Laptops",
+		"imageUrl":
+			"https://www.apple.com/newsroom/images/product/mac/standard/Apple_16-inch-MacBook-Pro_111319_big.jpg.medium.jpg",
+		"images": []
+	},
+	{
+		"id": 8,
+		"name": "Dell XPS 13",
+		"description":
+			"The Dell XPS 13 features a 13.4-inch InfinityEdge display, an 11th Gen Intel Core processor, and up to 16GB of RAM.",
+		"price": 1299,
+		"brand": "Dell",
+		"category": "Laptops",
+		"imageUrl":
+			"https://i.rtings.com/assets/products/Sg92Amv1/dell-xps-13-2021/design-medium.jpg",
+		"images": []
+	},
+	{
+		"id": 9,
+		"name": "Lenovo ThinkPad X1 Carbon",
+		"description":
+			"The Lenovo ThinkPad X1 Carbon features a 14-inch IPS display, an 11th Gen Intel Core processor, and up to 32GB of RAM.",
+		"price": 1799,
+		"brand": "Lenovo",
+		"category": "Laptops",
+		"imageUrl":
+			"https://www.pcworld.com/wp-content/uploads/2022/12/lenov-thinkpad-x1-carbon-primary-alt-100837988-orig.jpg?resize=768%2C466&quality=50&strip=all",
+		"images": []
+	},
+	{
+		"id": 10,
+		"name": "Asus ROG Zephyrus G14",
+		"description":
+			"The Asus ROG Zephyrus G14 features a 14-inch Full HD display, an AMD Ryzen 9 processor, and an NVIDIA GeForce RTX 3060 graphics card.",
+		"price": 1499,
+		"brand": "Asus",
+		"category": "Laptops",
+		"imageUrl":
+			"https://www.pcworld.com/wp-content/uploads/2022/03/ASUS_ROG_Zephyrus_G14_GA402_1-3.jpg?resize=768%2C512&quality=50&strip=all",
+		"images": []
+	}
+]
